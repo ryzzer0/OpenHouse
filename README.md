@@ -17,8 +17,8 @@
 ## Setup and Installation
 Clone the Repository:
 ```bash
-git clone https://github.com/your-repository/community-dashboard.git
-cd community-dashboard
+git clone https://github.com/ryzzer0/Openhouse.git
+cd Openhouse
 ```
 Install Dependencies:
 ```bash
